@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Fork: clone repository to own account
        //e.g.
        opiette/wxsand.git > pqin/wxsand.git
@@ -28,3 +29,6 @@ git branch -d coldself
 
 //Push: send commit to GitHub repository
 % git push origin master
+=======
+Successful push of local README onto github. Yay!
+>>>>>>> adbdc8e44fcab3836401c2c989c969eaa4fa2f46
