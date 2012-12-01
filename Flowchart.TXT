@@ -1,0 +1,13 @@
+git pull origin master <--------------
+ |                                    ^
+ V                                    |
+conflicts? --> yes > git commit -a -->
+ |
+ V
+git add -A
+ |
+ V
+git commit -m "commit message"
+ |
+ V
+git push origin master
